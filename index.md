@@ -1,3 +1,3 @@
 # Welcome to DataCommons.org
 
-# [API Documentation](https://github.com/shifucun/dcsite/api)
+# [API Documentation](https://shifucun.github.io/dcsite/api)
