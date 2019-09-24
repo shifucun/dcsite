@@ -1,7 +1,8 @@
 ---
 layout: default
-title: API
-nav_order: 2
+title: REST
+nav_order: 1
+parent: API
 has_children: true
 ---
 # Introduction about DataCommons API.

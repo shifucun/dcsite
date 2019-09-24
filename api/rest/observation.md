@@ -1,3 +1,11 @@
+---
+layout: default
+title: Get Observation
+nav_order: 1
+parent: REST
+has_children: true
+---
+
 # Get Observations for Populations.
 
 Given a list of
