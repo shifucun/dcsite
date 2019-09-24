@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Get Observation
-nav_order: 2
+title: Observation
+nav_order: 6
 parent: REST
 grand_parent: API
 ---

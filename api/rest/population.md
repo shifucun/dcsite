@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Get Population
-nav_order: 1
+title: Population
+nav_order: 5
 parent: REST
 grand_parent: API
-permalink: /api/rest/population
 ---
 
 # Get Populations for Place.
