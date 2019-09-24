@@ -1,1 +1,1 @@
-# [Get Observation](https://shifucun.github.io/dcsite//api/observation)
+# [Get Observation](https://shifucun.github.io/dcsite/api/observation)
