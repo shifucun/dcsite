@@ -3,6 +3,7 @@ layout: default
 title: Get Population
 nav_order: 1
 parent: REST
+permalink: /api/rest/population
 ---
 
 # Get Populations for Place.

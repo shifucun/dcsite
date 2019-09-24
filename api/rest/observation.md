@@ -3,6 +3,7 @@ layout: default
 title: Get Observation
 nav_order: 2
 parent: REST
+permalink: /api/rest/observation
 ---
 
 # Get Observations for Populations.
